@@ -11,6 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 - Bernardo Campos
+- André Moreira de Carvalho
 
 ## Professor
 
