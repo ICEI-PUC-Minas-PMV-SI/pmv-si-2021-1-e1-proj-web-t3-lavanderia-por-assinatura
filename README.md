@@ -1,22 +1,23 @@
-# TÍTULO DO PROJETO
+# SISTEMA WEB PARA LAVANDERIA POR ASSINATURA
 
-`CURSO`
+`Sistemas de Informação`
 
-`DISCIPLINA`
+`Projeto Web`
 
-`SEMESTRE`
+`Primeiro Semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
-## Integrantes
+## Integrantes <!-- em ordem alfabética -->
 
-- Bernardo Campos
 - André Moreira de Carvalho
-- Victor Mesquita Garcia Feltrim
+- Bernardo Campos Rodrigues
 - Marcos Paulo Nunes Elias
+- Victor Mesquita Garcia Feltrim
+
 ## Professor
 
-- Mestre Yoda
+- Fábio Martins de Oliveira
 
 # Documentação
 
