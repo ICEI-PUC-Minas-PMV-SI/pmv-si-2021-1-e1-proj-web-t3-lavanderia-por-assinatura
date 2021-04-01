@@ -12,6 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 - Bernardo Campos
 - André Moreira de Carvalho
+- Victor Mesquita Garcia Feltrim
 
 ## Professor
 
