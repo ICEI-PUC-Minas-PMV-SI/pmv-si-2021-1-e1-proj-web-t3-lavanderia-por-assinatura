@@ -5,7 +5,7 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 ## Problema
 O projeto consiste em transformar uma lavanderia de bairro tradicional em uma lavanderia por assinatura em larga escala.
 
-A projeto será todo desenvolvido do zero aplicando conhecimentos web e afins.
+Será feito todo desenvovimento inicial aplicando conhecimentos web afim de chegar no makerting final entre a lavanderia e os clientes.
 
 
 ## Objetivos
