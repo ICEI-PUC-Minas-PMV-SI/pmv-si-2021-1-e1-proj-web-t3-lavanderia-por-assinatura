@@ -10,12 +10,9 @@ Será feito todo o desenvolvimento inicial aplicando conhecimentos web a fim de 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+ Objetivo geral: Praticidade e qualidade na limpeza das peças de roupas e uma forma inovadora de comprometimento com o cliente.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivo especifíco: Ter uma fidelização com o cliente através de uma assinatura, estabelecendo a melhor forma de peças de roupas de sua preferência e sempre a disposição. Com atendimento remoto e facilidade na hora de prestar os serviços.
 
 ## Justificativa
 
