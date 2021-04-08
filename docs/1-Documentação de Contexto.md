@@ -19,12 +19,11 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Em um contexto em que as pessoas dedicam uma parcela cada vez maior de seu tempo para a vida profissional e acadêmica, sem tempo para os afazeres domésticos, morando em apartamentos cada vez menores e, muitas vezes, sem espaço para lavanderia, a LaveBem resolveu expandir seus negócios oferecendo um serviço inovador de lavanderia por assinatura. Dessa forma, seus clientes poderão empregar em outras atividades o tempo que gastariam para lavar e passar suas roupas, além de poderem poupar investimentos em máquinas de lavar, ferro de passar, energia, água e produtos de limpeza. 
+Além disso, um estudo conduzido pela Unilever mostrou que apenas 4% dos lares brasileiros usam lavanderia especializada. A LaveBem acredita que facilitando a contratação desse tipo de serviço através da Web, poderá alcançar uma fatia ainda maior do mercado.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Sendo assim, este trabalho tem por objetivo desenvolver o sistema web necessário para que a LaveBem lance esse serviço, auxiliando aqueles que têm uma rotina com tempo livre tão escasso.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
