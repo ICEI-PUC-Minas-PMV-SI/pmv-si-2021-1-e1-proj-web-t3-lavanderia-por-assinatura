@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A
 
 ## Problema
 O projeto consiste em transformar uma lavanderia de bairro tradicional em uma lavanderia por assinatura em larga escala.
@@ -10,7 +10,7 @@ Será feito todo o desenvolvimento inicial aplicando conhecimentos web a fim de 
 
 ## Objetivos
 
- Objetivo geral: Praticidade e qualidade na limpeza das peças de roupas e uma forma inovadora de comprometimento com o cliente.
+Objetivo geral: Praticidade e qualidade na limpeza das peças de roupas e uma forma inovadora de comprometimento com o cliente.
 
 Objetivo especifíco: Ter uma fidelização com o cliente através de uma assinatura, estabelecendo a melhor forma de peças de roupas de sua preferência e sempre a disposição. Com atendimento remoto e facilidade na hora de prestar os serviços.
 
