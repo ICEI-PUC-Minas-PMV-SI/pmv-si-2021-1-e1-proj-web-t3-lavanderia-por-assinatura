@@ -14,7 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 - Bernardo Campos Rodrigues
 - Marcos Paulo Nunes Elias
 - Victor Mesquita Garcia Feltrim
-
+- Jennifer Andreia Gomes Pinto
 ## Professor
 
 - Fábio Martins de Oliveira
