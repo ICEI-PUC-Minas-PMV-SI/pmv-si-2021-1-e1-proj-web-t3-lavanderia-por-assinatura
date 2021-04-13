@@ -12,9 +12,12 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 - André Moreira de Carvalho
 - Bernardo Campos Rodrigues
+- Brenda Stefane Campos de Carvalho
 - Marcos Paulo Nunes Elias
 - Victor Mesquita Garcia Feltrim
 - Jennifer Andreia Gomes Pinto
+
+
 ## Professor
 
 - Fábio Martins de Oliveira
