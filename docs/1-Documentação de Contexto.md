@@ -11,9 +11,14 @@ Será feito todo o desenvolvimento inicial aplicando conhecimentos web a fim de 
 
 ## Objetivos
 
-Objetivo geral: Praticidade e qualidade na limpeza das peças de roupas e uma forma inovadora de comprometimento com o cliente.
+Objetivo geral: Através de uma plataforma ágil, segura e completa, o usuário poderá gerenciar através de gráficos e relatórios os gastos que foram realizados durante a sua assinatura.
 
-Objetivo especifíco: Ter uma fidelização com o cliente através de uma assinatura, estabelecendo a melhor forma de peças de roupas de sua preferência e sempre a disposição. Com atendimento remoto e facilidade na hora de prestar os serviços.
+Objetivo especifíco: 
+
+* Ter uma fidelização com o cliente através de uma assinatura;
+* Qualidade na limpeza das peças de roupas;
+* Estabelecer a melhor experiência para o usuário;
+* Utilizar as melhores tecnologias do mercado para a construção do sistema;
 
 ## Justificativa
 
