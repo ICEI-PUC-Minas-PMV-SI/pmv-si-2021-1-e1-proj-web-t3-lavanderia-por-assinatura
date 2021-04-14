@@ -10,17 +10,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes <!-- em ordem alfabética -->
 
-- André Moreira de Carvalho
-- Bernardo Campos Rodrigues
-- Brenda Stefane Campos de Carvalho
-- Marcos Paulo Nunes Elias
-- Victor Mesquita Garcia Feltrim
-- Jennifer Andreia Gomes Pinto
-
+- [André Moreira de Carvalho](https://github.com/Dande06)
+- [Bernardo Campos Rodrigues](https://github.com/bernardocamps)
+- [Brenda Stefane Campos de Carvalho](https://github.com/brendaccarvalho)
+- [Jennifer Andreia Gomes Pinto](https://github.com/Jenniferandreia)
+- [Marcos Paulo Nunes Elias](https://github.com/MaarcosP)
+- [Victor Mesquita Garcia Feltrim](https://github.com/vihfeltrim)
 
 ## Professor
 
-- Fábio Martins de Oliveira
+- [Fábio Martins de Oliveira](https://github.com/fmartinssp)
 
 # Documentação
 
