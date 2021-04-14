@@ -31,5 +31,3 @@ Sendo assim, este trabalho tem por objetivo desenvolver o sistema web necessári
 ## Público-Alvo
 
 O público alvo de nossa empresa se abrange a pessoas com trabalhos e estudos integrais, afim de facilitar sua rotina buscam nossos serviços tendo a praticidade de receber suas roupas lavadas em casa.
-
-*Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.*
