@@ -10,6 +10,10 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 **Joana Angélica** tem 33 anos, é gerente de marketing, solteira e trabalha para uma multinacional com sede em Cingapura. Devido ao fuso horário com 11 horas de diferença, a jornada de trabalho de Joana é bem diferenciada, não restando tempo livre quando as lavanderias estão abertas. Joana procura por um serviço que possa facilitar o acesso a um serviço de lavanderia, restando mais tempo para dedicar a seus hobbies.
 
+
+**Lucas Moreno** tem 44 anos, é representante comercial de uma multinacional e solteiro.
+Lucas viaja muito a trabalho e isso dificulta muito a conciliação do seu tempo para afazeres domésticos. Lucas busca o serviço de lavagem por assinatura pelo fato de poder agendar a lavagem a qualquer momento quando o mesmo estiver em viagem. Lucas vê como vantagem, a liberdade que assinatura de lavagem de roupas pode proporcionar trazendo um custo/benefícios muito considerado. Lucas poderá solicitar a busca das suas roupas sujas em seu prédio, onde as roupas dele serão lavadas e entregues a portaria do seu prédio devidamente limpas.
+
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
