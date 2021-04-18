@@ -4,15 +4,14 @@
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
 
 **Joana Angélica** tem 33 anos, é gerente de marketing, solteira e trabalha para uma multinacional com sede em Cingapura. Devido ao fuso horário com 11 horas de diferença, a jornada de trabalho de Joana é bem diferenciada, não restando tempo livre quando as lavanderias estão abertas. Joana procura por um serviço que possa facilitar o acesso a um serviço de lavanderia, restando mais tempo para dedicar a seus hobbies.
 
-
 **Lucas Moreno** tem 44 anos, é representante comercial de uma multinacional e solteiro.
 Lucas viaja muito a trabalho e isso dificulta muito a conciliação do seu tempo para afazeres domésticos. Lucas busca o serviço de lavagem por assinatura pelo fato de poder agendar a lavagem a qualquer momento quando o mesmo estiver em viagem. Lucas vê como vantagem, a liberdade que assinatura de lavagem de roupas pode proporcionar trazendo um custo/benefícios muito considerado. Lucas poderá solicitar a busca das suas roupas sujas em seu prédio, onde as roupas dele serão lavadas e entregues a portaria do seu prédio devidamente limpas.
+
+**Dona Arminda** tem 82 anos, casada há 50 anos com Seu Jonas. Aposentada, ajuda seus três filhos a cuidar dos 5 netinhos, que se revezam em sua casa. Sempre muito atribulada com as visitas, Dona Arminda procura um serviço prático de lavanderia; assim, pode dedicar mais tempo brincando com seus netinhos e assistindo seu seriado favorito no Netflix com Seu Jonas.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
@@ -30,10 +29,10 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`|PARA ... `MOTIVO/VALOR`                   |
+|--------------------|-----------------------------------|------------------------------------------|
+|Joana Angélica      | Agendar o serviço via WebApp, pagando com cartão de crédito. | Para não precisar se ausentar da reunião. |
+|Dona Arminda        | Contratar o serviço via WhatsApp, interagindo com um atendente real, se necessário. | Para dedicar seu tempo a tarefas mais divertidas. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
