@@ -31,3 +31,9 @@ Sendo assim, este trabalho tem por objetivo desenvolver o sistema web necessári
 ## Público-Alvo
 
 O público alvo de nossa empresa se abrange a pessoas com trabalhos e estudos integrais, afim de facilitar sua rotina buscam nossos serviços tendo a praticidade de receber suas roupas lavadas em casa.
+
+# Mapa de Stakeholders
+![Mapa de Stakeholders](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t3-lavanderia-por-assinatura/blob/73ec6f0e108b462e2e2c03ff18857863c0c0b8a5/docs/img/mapa-de-stakeholders.png)
+
+# Diagrama de Personas
+![Diagrama de Personas](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t3-lavanderia-por-assinatura/blob/73ec6f0e108b462e2e2c03ff18857863c0c0b8a5/docs/img/diagrama-de-personas.png)
