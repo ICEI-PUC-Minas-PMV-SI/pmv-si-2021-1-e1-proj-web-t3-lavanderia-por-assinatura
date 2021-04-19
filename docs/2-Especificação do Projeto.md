@@ -13,6 +13,7 @@ Lucas viaja muito a trabalho e isso dificulta muito a conciliação do seu tempo
 
 **Dona Arminda** tem 82 anos, casada há 50 anos com Seu Jonas. Aposentada, ajuda seus três filhos a cuidar dos 5 netinhos, que se revezam em sua casa. Sempre muito atribulada com as visitas, Dona Arminda procura um serviço prático de lavanderia; assim, pode dedicar mais tempo brincando com seus netinhos e assistindo seu seriado favorito no Netflix com Seu Jonas.
 
+Mário Fernandes tem 40 anos é solteiro e médico de plantão, tem 3 filhos pequenos e não tem tempo de fazer todas as tarefas em casa. Ganha entre R$ 4.820 e R$ 8.147, tem um gasto mensal com compras em supermercados e roupas. Por sua falta de tempo ele precisa de ajuda com algumas tarefas, uma delas e nosso serviço de Lavanderia por Assinatura que busca, lava, passa e entrega suas roupas e de seus filhos em casa.
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
@@ -33,7 +34,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|-----------------------------------|------------------------------------------|
 |Joana Angélica      | Agendar o serviço via WebApp, pagando com cartão de crédito. | Para não precisar se ausentar da reunião. |
 |Dona Arminda        | Contratar o serviço via WhatsApp, interagindo com um atendente real, se necessário. | Para dedicar seu tempo a tarefas mais divertidas. |
-|Funcionário do SAC  | Acessar um Dashboard intuitivo com pesquisa de clientes e histórico de cada operação. | Para oferecer com agilidade o melhor serviço para nossos clientes. |
+|Funcionário do SAC  | Acessar um Dashboard intuitivo com pesquisa de clientes e histórico de cada operação. | Para oferecer com agilidade o melhor serviço para nossos clientes. | Mário Fernandes| Contatar serviço via rede social, se necessário por ligação. | Para não se ausentar dos seus serviços. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
