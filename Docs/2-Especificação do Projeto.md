@@ -14,7 +14,8 @@ Lucas viaja muito a trabalho e isso dificulta muito a conciliação do seu tempo
 **Dona Arminda** tem 82 anos, casada há 50 anos com Seu Jonas. Aposentada, ajuda seus três filhos a cuidar dos 5 netinhos, que se revezam em sua casa. Sempre muito atribulada com as visitas, Dona Arminda procura um serviço prático de lavanderia; assim, pode dedicar mais tempo brincando com seus netinhos e assistindo seu seriado favorito no Netflix com Seu Jonas.
 
 Mário Fernandes tem 40 anos é solteiro e médico de plantão, tem 3 filhos pequenos e não tem tempo de fazer todas as tarefas em casa. Ganha entre R$ 4.820 e R$ 8.147, tem um gasto mensal com compras em supermercados e roupas. Por sua falta de tempo ele precisa de ajuda com algumas tarefas, uma delas e nosso serviço de Lavanderia por Assinatura que busca, lava, passa e entrega suas roupas e de seus filhos em casa.
-Cintia Ramires tem 26 anos e é solteira, trabalha como comissária de voo, mora em São Paulo, mas devido sua profissão vive viajando e muita das vezes não tem tempo de se dedicar com as tarefas de casa. Cintia necessita de praticidade e compromisso, já viaja toda semana a trabalho, como ela não tem uma rotina definida, precisa de uma lavanderia a sua disposição com facilidade de acesso.
+
+**Cintia Ramires** tem 26 anos e é solteira, trabalha como comissária de voo, mora em São Paulo, mas devido sua profissão vive viajando e muita das vezes não tem tempo de se dedicar com as tarefas de casa. Cintia necessita de praticidade e compromisso, já viaja toda semana a trabalho, como ela não tem uma rotina definida, precisa de uma lavanderia a sua disposição com facilidade de acesso.
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
