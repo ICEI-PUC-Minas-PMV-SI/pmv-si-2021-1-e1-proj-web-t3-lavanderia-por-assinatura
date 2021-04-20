@@ -25,7 +25,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|-----------------------------------|------------------------------------------|
 |Joana Angélica      | Agendar o serviço via WebApp, pagando com cartão de crédito. | Para não precisar se ausentar da reunião. |
 |Dona Arminda        | Contratar o serviço via WhatsApp, interagindo com um atendente real, se necessário. | Para dedicar seu tempo a tarefas mais divertidas. |
-|Funcionário do SAC  | Acessar um Dashboard intuitivo com pesquisa de clientes e histórico de cada operação. | Para oferecer com agilidade o melhor serviço para nossos clientes. | Mário Fernandes| Contatar serviço via rede social, se necessário por ligação. | Para não se ausentar dos seus serviços. |
+|Funcionário do SAC  | Acessar um Dashboard intuitivo com pesquisa de clientes e histórico de cada operação. | Para oferecer com agilidade o melhor serviço para nossos clientes. |
+|Mário Fernandes| Contatar serviço via rede social, se necessário por ligação. | Para não se ausentar dos seus serviços. |
+|Gerente |Acessar um Dashboard que tenha módulo financeiro e estoque.  |Garantir uma melhor gestão para proporcionar um melhor serviço com um menor custo. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
