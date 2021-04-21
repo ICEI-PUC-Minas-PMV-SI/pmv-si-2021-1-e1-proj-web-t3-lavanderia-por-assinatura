@@ -17,6 +17,8 @@ Lucas viaja muito a trabalho e isso dificulta muito a conciliação do seu tempo
 
 **Cintia Ramires** tem 26 anos e é solteira, trabalha como comissária de voo, mora em São Paulo, mas devido sua profissão vive viajando e muita das vezes não tem tempo de se dedicar com as tarefas de casa. Cintia necessita de praticidade e compromisso, já viaja toda semana a trabalho, como ela não tem uma rotina definida, precisa de uma lavanderia a sua disposição com facilidade de acesso.
 
+**Pousada Vila Bella** é uma pousada sediada em Belo Horizonte na região hospitalar, a Pousada Vila Bela recebe muitas pessoas que viajam de outras cidades para consultar em Belo Horizonte e devido a sua proximidade com os hospitais as pessoas se hospedam muito nela. Com a lavagem por assinatura, o administrador da pousada teve a agilidade em planejar dias da semana onde as peças de roupas de cama e outros da pousada eram recolhidas para lavagem, com o tempo o admistrador da pousada percebeu que também poderia cobrar uma taxa de lavagem das roupas dos hospedes onde o mesmo repassava para ser recolhidas junto com os materias da pousada. A lavagem de roupas por assinatura proporcionou que uma pousada tivesse todos os seus materias internos limpos em prazos menores e também que os hospedes poderia lavar suas roupas por meio da assinatura da pousada.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
