@@ -2,8 +2,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
 ## Personas
 
 **Joana Angélica** tem 33 anos, é gerente de marketing, solteira e trabalha para uma multinacional com sede em Cingapura. Devido ao fuso horário com 11 horas de diferença, a jornada de trabalho de Joana é bem diferenciada, não restando tempo livre quando as lavanderias estão abertas. Joana procura por um serviço que possa facilitar o acesso a um serviço de lavanderia, restando mais tempo para dedicar a seus hobbies.
@@ -31,15 +29,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Mário Fernandes| Contatar serviço via rede social, se necessário por ligação. | Para não se ausentar dos seus serviços. |
 |Gerente |Acessar um Dashboard que possua um módulo financeiro e um módulo de estoque.  |Garantir uma melhor gestão para proporcionar um melhor serviço com um menor custo. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
@@ -48,8 +37,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário faça um cadastro, inserindo suas informações de contato. | ALTA | 
+|RF-002| Permitir que o usuário contrate o serviço através da Central de Marcação. | ALTA |
+|RF-003| Módulo Central de Marcação, centralizando informações de pedidos feitos pelo site, WhatsApp e Ligação. | ALTA |
+|RF-004| Permitir que o gerente acesse um Dashboard com informações dos clientes e histórico de operações. | MÉDIA |
 
 
 ### Requisitos não Funcionais
