@@ -26,7 +26,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`|PARA ... `MOTIVO/VALOR`                   |
 |--------------------|-----------------------------------|------------------------------------------|
 |Interessado nos serviços      | Buscar informações sobre os planos de assinatura disponíveis e serviços oferecidos | Para contratar um plano e entrar em contato, caso necessário |
-|Assinante        | Ter acesso as minhas informações de assinatura e serviços contratados | Para alterar o plano contratado, forma de pagamento, adicionar ou remover serviços extras e abrir chamado para algum problema com os serviços |
+|Assinante        | Ter acesso as suas informações de assinatura e serviços contratados | Para alterar o plano contratado, forma de pagamento, adicionar ou remover serviços extras e abrir chamado para algum problema com os serviços |
 |Funcionário do SAC  | Acessar um Dashboard intuitivo com pesquisa de clientes e histórico de cada operação. | Para oferecer com agilidade o melhor serviço para nossos clientes. |
 |Mário Fernandes| Contatar serviço via rede social, se necessário por ligação. | Para não se ausentar dos seus serviços. |
 |Gerente |Acessar um Dashboard que possua um módulo financeiro e um módulo de estoque.  |Garantir uma melhor gestão para proporcionar um melhor serviço com um menor custo. |
