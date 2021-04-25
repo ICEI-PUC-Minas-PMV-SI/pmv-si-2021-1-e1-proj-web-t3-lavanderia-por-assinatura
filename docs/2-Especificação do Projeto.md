@@ -25,7 +25,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`|PARA ... `MOTIVO/VALOR`                   |
 |--------------------|-----------------------------------|------------------------------------------|
-|Joana Angélica      | Agendar o serviço via WebApp, pagando com cartão de crédito. | Para não precisar se ausentar da reunião. |
+|Interessado nos serviços      | Buscar informações sobre os planos de assinatura disponíveis e serviços oferecidos | Para contratar um plano e entrar em contato, caso necessário |
 |Dona Arminda        | Contratar o serviço via WhatsApp, interagindo com um atendente real, se necessário. | Para dedicar seu tempo a tarefas mais divertidas. |
 |Funcionário do SAC  | Acessar um Dashboard intuitivo com pesquisa de clientes e histórico de cada operação. | Para oferecer com agilidade o melhor serviço para nossos clientes. |
 |Mário Fernandes| Contatar serviço via rede social, se necessário por ligação. | Para não se ausentar dos seus serviços. |
