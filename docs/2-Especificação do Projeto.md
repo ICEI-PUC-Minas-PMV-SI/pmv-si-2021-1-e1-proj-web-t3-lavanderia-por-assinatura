@@ -42,14 +42,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| Módulo Central de Marcação, centralizando informações de pedidos feitos pelo site, WhatsApp e Ligação. | ALTA |
 |RF-004| Permitir que o gerente acesse um Dashboard com informações dos clientes e histórico de operações. | MÉDIA |
 
-
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s | BAIXA | 
 |RNF-003| O sistema deve oferecer disponibilidade de 98.9% do tempo em dias de semana entre 08:00 e 20:00 e pelo menos 99.9% entre 10:00 e 13:00. | MÉDIA |
+|RNF-004| A fonte utilizada deve estar em um tamanho adequado, permitindo uma boa leitura em telas pequenas. | BAIXA | 
 
 
 ## Restrições
