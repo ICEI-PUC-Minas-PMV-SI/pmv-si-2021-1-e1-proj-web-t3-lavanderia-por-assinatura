@@ -6,7 +6,7 @@
 
 `Primeiro Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto Web para desenvolvimento de um sistema para a LaveBem, uma lavanderia tradicional que decidiu se modernizar, oferendo um prático serviço por assinatura.
 
 ## Integrantes <!-- em ordem alfabética -->
 
