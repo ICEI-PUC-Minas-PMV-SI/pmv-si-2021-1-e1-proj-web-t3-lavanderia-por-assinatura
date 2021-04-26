@@ -1,13 +1,11 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
 ## Personas
 
 **Joana Angélica** tem 33 anos, é gerente de marketing, solteira e trabalha para uma multinacional com sede em Cingapura. Devido ao fuso horário com 11 horas de diferença, a jornada de trabalho de Joana é bem diferenciada, não restando tempo livre quando as lavanderias estão abertas. Joana procura por um serviço que possa facilitar o acesso a um serviço de lavanderia, restando mais tempo para dedicar a seus hobbies.
 
 **Lucas Moreno** tem 44 anos, é representante comercial de uma multinacional e solteiro.
-Lucas viaja muito a trabalho e isso dificulta muito a conciliação do seu tempo para afazeres domésticos. Lucas busca o serviço de lavagem por assinatura pelo fato de poder agendar a lavagem a qualquer momento quando o mesmo estiver em viagem. Lucas vê como vantagem, a liberdade que assinatura de lavagem de roupas pode proporcionar trazendo um custo/benefícios muito considerado. Lucas poderá solicitar a busca das suas roupas sujas em seu prédio, onde as roupas dele serão lavadas e entregues a portaria do seu prédio devidamente limpas.
+Lucas viaja muito a trabalho e isso dificulta muito a conciliação do seu tempo para afazeres domésticos. Lucas busca o serviço de lavagem por assinatura pelo fato de poder agendar a lavagem a qualquer momento quando o mesmo estiver em viagem. Lucas vê como vantagem, a liberdade que a assinatura de lavagem de roupas pode proporcionar trazendo um custo/benefício muito considerável. Lucas poderá solicitar a busca das suas roupas sujas em seu prédio, onde as roupas dele serão lavadas e entregues à portaria do seu prédio devidamente limpas.
 
 **Dona Arminda** tem 82 anos, casada há 50 anos com Seu Jonas. Aposentada, ajuda seus três filhos a cuidar dos 5 netinhos, que se revezam em sua casa. Sempre muito atribulada com as visitas, Dona Arminda procura um serviço prático de lavanderia; assim, pode dedicar mais tempo brincando com seus netinhos e assistindo seu seriado favorito no Netflix com Seu Jonas.
 
@@ -17,7 +15,7 @@ Lucas viaja muito a trabalho e isso dificulta muito a conciliação do seu tempo
 
 **Karine Albuquerque** tem 33 anos, é solteira e é gerente regional de um grande banco. Trabalha o dia todo, e a noite faz uma segunda graduação que é exigida pelo banco em que trabalha. Como Karine participa de várias apresentações, reuniões e visitas a clientes, ela precisa estar sempre bem vestida e, com a correria do dia a dia, busca um serviço de lavanderia que retire em sua casa, periodicamente, suas roupas usadas e sujas e as traga, já lavadas e passadas, para a portaria do seu condomínio.
 
-**Pousada Vila Bella** é uma pousada sediada em Belo Horizonte na região hospitalar, a Pousada Vila Bela recebe muitas pessoas que viajam de outras cidades para consultar em Belo Horizonte e devido a sua proximidade com os hospitais as pessoas se hospedam muito nela. Com a lavagem por assinatura, o administrador da pousada teve a agilidade em planejar dias da semana onde as peças de roupas de cama e outros da pousada eram recolhidas para lavagem, com o tempo o admistrador da pousada percebeu que também poderia cobrar uma taxa de lavagem das roupas dos hospedes onde o mesmo repassava para ser recolhidas junto com os materias da pousada. A lavagem de roupas por assinatura proporcionou que uma pousada tivesse todos os seus materias internos limpos em prazos menores e também que os hospedes poderia lavar suas roupas por meio da assinatura da pousada.
+**Pousada Vila Bella** é uma pousada sediada em Belo Horizonte na região hospitalar, a Pousada Vila Bela recebe muitas pessoas que viajam de outras cidades para consultar em Belo Horizonte e devido a sua proximidade com os hospitais as pessoas se hospedam muito nela. Com a lavagem por assinatura, o administrador da pousada teve a agilidade em planejar dias da semana onde as peças de roupas de cama e outros da pousada eram recolhidas para lavagem, com o tempo o administrador da pousada percebeu que também poderia cobrar uma taxa de lavagem das roupas dos hóspedes onde o mesmo repassava para ser recolhidas junto com os materias da pousada. A lavagem de roupas por assinatura proporcionou que uma pousada tivesse todos os seus materiais internos limpos em prazos menores e também que os hóspedes poderia lavar suas roupas por meio da assinatura da pousada.
 
 ## Histórias de Usuários
 
@@ -26,8 +24,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`|PARA ... `MOTIVO/VALOR`                   |
 |--------------------|-----------------------------------|------------------------------------------|
 |Interessado nos serviços      | Buscar informações sobre os planos de assinatura disponíveis e serviços oferecidos | Para contratar um plano e entrar em contato, caso necessário |
-|Assinante        | Ter acesso as suas informações de assinatura e serviços contratados | Para alterar o plano contratado, forma de pagamento, adicionar ou remover serviços extras e abrir chamado para algum problema com os serviços |
-|Funcionário da Lavanderia|Acessar os dados das assinaturas dos clientes|Para confirmar recebimento das peças, verificar o plano contratado, realizar cobrança avulsa de serviços não inclusos e despachar as peças de volta a casa do cliente.
+|Assinante        | Ter acesso às suas informações de assinatura e serviços contratados | Para alterar o plano contratado, forma de pagamento, adicionar ou remover serviços extras e abrir chamado para algum problema com os serviços |
+|Funcionário da Lavanderia|Acessar os dados das assinaturas dos clientes|Para confirmar recebimento das peças, verificar o plano contratado, realizar cobrança avulsa de serviços não inclusos e despachar as peças de volta à casa do cliente.
 |Funcionário do SAC  | Acessar um Dashboard intuitivo com pesquisa de clientes e histórico de cada operação. | Para oferecer com agilidade o melhor serviço para nossos clientes. 
 |Gerente |Acessar um Dashboard que possua um módulo financeiro e um módulo de estoque.  |Garantir uma melhor gestão para proporcionar um melhor serviço com um menor custo. |
 
@@ -51,21 +49,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| O sistema deve oferecer disponibilidade de 98.9% do tempo em dias de semana entre 08:00 e 20:00 e pelo menos 99.9% entre 10:00 e 13:00. | MÉDIA |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -75,10 +60,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
