@@ -4,6 +4,8 @@
 
 **Joana Angélica** tem 33 anos, é gerente de marketing, solteira e trabalha para uma multinacional com sede em Cingapura. Devido ao fuso horário com 11 horas de diferença, a jornada de trabalho de Joana é bem diferenciada, não restando tempo livre quando as lavanderias estão abertas. Joana procura por um serviço que possa facilitar o acesso a um serviço de lavanderia, restando mais tempo para dedicar a seus hobbies.
 
+**Pedro Silva** tem 29 anos, é Desenvolvedor de Projetos e trabalha em uma empresa multinacional. Ele viaja muito para treinar sua equipe de Desenvolvedores. É casado, tem 3 filhos. Quando retorna de viagem, que dura cerca de 3 dias, acaba deixando a tarefa das roupas para sua esposa. Porém, como sua esposa também trabalha fora, não consegue ter tempo para administrar sua lavanderia. Após fazerem os cálculos juntos, perceberam que a melhor opção seria fazer uma assinatura mensal com uma lavanderia de roupas. Isso pouca tempo para ele e para sua família, sempre recebendo as roupas limpas e passadas.
+
 **Lucas Moreno** tem 44 anos, é representante comercial de uma multinacional e solteiro.
 Lucas viaja muito a trabalho e isso dificulta muito a conciliação do seu tempo para afazeres domésticos. Lucas busca o serviço de lavagem por assinatura pelo fato de poder agendar a lavagem a qualquer momento quando o mesmo estiver em viagem. Lucas vê como vantagem, a liberdade que a assinatura de lavagem de roupas pode proporcionar trazendo um custo/benefício muito considerável. Lucas poderá solicitar a busca das suas roupas sujas em seu prédio, onde as roupas dele serão lavadas e entregues à portaria do seu prédio devidamente limpas.
 
