@@ -63,3 +63,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 |03| O projeto não deve extrapolar o orçamento definido    |
+|04| O desenvolvimento do projeto estará limitado a 6 colaboradores |
