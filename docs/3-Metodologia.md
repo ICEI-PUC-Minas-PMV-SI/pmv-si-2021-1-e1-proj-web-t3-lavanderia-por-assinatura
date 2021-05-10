@@ -39,6 +39,9 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
+| [<img alt="andremoreira" src="https://github.com/Dande06.png?size=115" width="115"><br><sub>André Moreira</sub>](https://github.com/Dande06)<p>Papel</p> | [<img alt="bernardocampos" src="https://github.com/bernardocamps.png?size=115" width="115"><br><sub>Bernardo Campos</sub>](https://github.com/bernardocamps)<p>Papel</p>  | [<img alt="brendacarvalho" src="https://github.com/brendaccarvalho.png?size=115" width="115"><br><sub>Brenda Carvalho</sub>](https://github.com/brendaccarvalho)<p>Papel</p>  | [<img alt="jenniferandreia" src="https://github.com/Jenniferandreia.png?size=115" width="115"><br><sub>Jennifer Andreia</sub>](https://github.com/Jenniferandreia)<p>Papel</p>  | [<img alt="marcospaulo" src="https://github.com/MaarcosP.png?size=115" width="115"><br><sub>Marcos Paulo</sub>](https://github.com/MaarcosP)<p>Papel</p>  | [<img alt="victorfeltrim" src="https://github.com/vihfeltrim.png?size=115" width="115"><br><sub>Victor Feltrim</sub>](https://github.com/vihfeltrim)<p>Papel</p>  |
+| :---: |:---: |:---: |:---: |:---: |:---: |
+
 Apresente a divisão de papéis entre os membros do grupo.
 
 > **Links Úteis**:
