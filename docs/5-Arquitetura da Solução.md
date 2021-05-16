@@ -1,16 +1,22 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
+O site da LaveBem ficará hospedado na plataforma (A DEFINIR). Será desenvolvido em linguagem de marcação (HTML), linguagem de folha de estilos (CSS) e linguagem de programação (JavaScript). O site também suportará arquivos de imagens (JPEG, PNG) e terá extensões para o processamento de pagamentos por boleto e cartões de crédito ou débito.
+O site contará uma área do assinante, links redirecionando para redes sociais e descrições sobre os serviços, planos, valores, áreas atendidas, central de atendimento ao cliente, meios de contatos e depoimentos de usuários.
+A página inicial apresentará com destaque os custos e benefícios do serviço de lavanderia por assinatura.
+•	Home: Terá informações bem resumidas sobre os planos, história e o marketing principal;
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+•	Planos: Terá todas as informações detalhadas dos serviços e seus benefícios, bem como informações sobre lavagem de peças de roupas avulsas, sem a necessidade de um plano de assinatura;
 
-## Diagrama de componentes
+•	Como funciona: Terá um passo a passo detalhando como é feita a coleta de roupas na casa do cliente, todo o processo de lavagem e o processo da entrega das roupas no local que foi coletado;
 
-Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
+•	Áreas atendidas: Terá um mini mapa adicionado no site onde mostrará as áreas em que a LaveBem atua;
 
-Exemplo: 
+•	Contato: Terá todas as informações necessárias e um chat onde o cliente possa entrar em contato direto com a LaveBem;
 
-Os componentes que fazem parte da solução são apresentados na Figura XX.
+•	Area do cliente: Será um portal onde cliente terá todas as informações do andamento da sua solicitação de e demais detalhas específicos.
+O site será acessado por meio da URL: (A DEFINIR)
+
+
 
 ![Diagrama de Componentes](img/componentes.png)
 <center>Figura XX - Arquitetura da Solução</center>
