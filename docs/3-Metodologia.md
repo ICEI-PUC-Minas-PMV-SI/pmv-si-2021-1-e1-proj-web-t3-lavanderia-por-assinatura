@@ -70,7 +70,7 @@ As ferramentas empregadas no projeto são:
 
 - **VSCode** - Editor de código.
 - **WhatsApp, Microsoft Teams** - Ferramentas de comunicação.
-- **(confirmar)** - Ferramentas de diagramação.
+- **Canva** - Ferramentas de diagramação.
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
