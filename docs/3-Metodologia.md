@@ -73,5 +73,5 @@ As ferramentas empregadas no projeto são:
 - **Canva** - Ferramenta de diagramação.
 
 O **VSCode** foi escolhido por ser um editor de código que é gratuito, de código aberto, multi-linguagem e multi-plataforma.<br />
-O **Canva** foi escolhido como ferramenta de diagramação por sua facilidade de operação, por ser gratuito, contar com diversos modelos e ser o que mais atende as necessidades do projeto.
+O **Canva** foi escolhido como ferramenta de diagramação por sua facilidade de operação, por ser gratuito, contar com diversos modelos e ser o que melhor atende as necessidades do projeto.
 
