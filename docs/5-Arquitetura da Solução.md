@@ -5,15 +5,15 @@ O site contará uma área do assinante, links redirecionando para redes sociais 
 A página inicial apresentará com destaque os custos e benefícios do serviço de lavanderia por assinatura.
 •	Home: Terá informações bem resumidas sobre os planos, história e o marketing principal;
 
-•	Planos: Terá todas as informações detalhadas dos serviços e seus benefícios, bem como informações sobre lavagem de peças de roupas avulsas, sem a necessidade de um plano de assinatura;
+• **Planos**: Terá todas as informações detalhadas dos serviços e seus benefícios, bem como informações sobre lavagem de peças de roupas avulsas, sem a necessidade de um plano de assinatura;
 
-•	Como funciona: Terá um passo a passo detalhando como é feita a coleta de roupas na casa do cliente, todo o processo de lavagem e o processo da entrega das roupas no local que foi coletado;
+•	**Como funciona**: Terá um passo a passo detalhando como é feita a coleta de roupas na casa do cliente, todo o processo de lavagem e o processo da entrega das roupas no local que foi coletado;
 
-•	Áreas atendidas: Terá um mini mapa adicionado no site onde mostrará as áreas em que a LaveBem atua;
+•	**Áreas atendidas**: Terá um mini mapa adicionado no site onde mostrará as áreas em que a LaveBem atua;
 
-•	Contato: Terá todas as informações necessárias e um chat onde o cliente possa entrar em contato direto com a LaveBem;
+•	**Contato**: Terá todas as informações necessárias e um chat onde o cliente possa entrar em contato direto com a LaveBem;
 
-•	Area do cliente: Será um portal onde cliente terá todas as informações do andamento da sua solicitação de e demais detalhas específicos.
+•	**Area do cliente**: Será um portal onde cliente terá todas as informações do andamento da sua solicitação de e demais detalhas específicos.
 O site será acessado por meio da URL: (A DEFINIR)
 
 
