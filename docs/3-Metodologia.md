@@ -55,11 +55,11 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 O projeto será implementado com o auxílio do Kanban automático do GitHub e será composto por 5 Sprints numeradas de 0 a 4, são elas:
 
->•	Sprint 0: 1ª Etapa – Análise e especificação do Problema <br />
->•	Sprint 1: 2ª Etapa – Projeto dos requisitos e de artefatos do sistema <br />
->•	Sprint 2: 3ª Etapa – Desenvolvimento da solução <br />
->•	Sprint 3: 4ª Etapa – Implantação e testes funcionais <br />
->•	Sprint 4: 5ª Etapa – Testes de usabilidade e apresentação da solução <br />
+•	Sprint 0: 1ª Etapa – Análise e especificação do Problema; <br />
+•	Sprint 1: 2ª Etapa – Projeto dos requisitos e de artefatos do sistema; <br />
+•	Sprint 2: 3ª Etapa – Desenvolvimento da solução; <br />
+•	Sprint 3: 4ª Etapa – Implantação e testes funcionais; <br />
+•	Sprint 4: 5ª Etapa – Testes de usabilidade e apresentação da solução. <br />
 
 Para cada etapa, o Product Owner definirá os Backlogs e suas datas de entrega, as tarefas serão designadas para cada Dev pela própria equipe de desenvolvimento de forma que se auto-organizem, e a equipe contará com o auxílio, supervisão e apoio do Scrum Master.
 
