@@ -2,7 +2,7 @@
 # Projeto de Interface
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
--
+
 Através do navegador, o novo usuário consegue acessar a página da LaveBem onde terá todas as informações e com botões de direcionamento para cada seção do site. A rede de endereço da web são integradas (A DEFINIR), com suporte de arquivos de imagem para download dos boletos. 
 No topo da página principal (header) contém o logo da loja virtual, também disponibiliza a localização das nossas lojas físicas e acesso para o usuário que queira se cadastrar no site através da nossa assinatura, ainda no Header da página principal terá o botão de acesso as seções:
 
