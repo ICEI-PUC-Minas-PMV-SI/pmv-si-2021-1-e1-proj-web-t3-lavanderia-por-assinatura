@@ -6,13 +6,13 @@
 Através do navegador, o novo usuário consegue acessar a página da LaveBem onde terá todas as informações e com botões de direcionamento para cada seção do site. A rede de endereço da web são integradas (A DEFINIR), com suporte de arquivos de imagem para download dos boletos. 
 No topo da página principal (header) contém o logo da loja virtual, também disponibiliza a localização das nossas lojas físicas e acesso para o usuário que queira se cadastrar no site através da nossa assinatura, ainda no Header da página principal terá o botão de acesso as seções:
 
-• ***	Empresa*** : consta a historia e a missão da LaveBem.
+• **Empresa** : consta a historia e a missão da LaveBem.
 
-• ***	Serviços*** : o cliente tem acesso a todos os serviços prestados pela LaveBem. 
+• **Serviços** : o cliente tem acesso a todos os serviços prestados pela LaveBem. 
 
-• ***	Contato*** : providencia as informações do WhatsApp da loja, o e-mail para contato, a central de atendimento da LaveBem e a disponibiliza no próprio site a comunicação com o usuário. 
+• **Contato** : providencia as informações do WhatsApp da loja, o e-mail para contato, a central de atendimento da LaveBem e a disponibiliza no próprio site a comunicação com o usuário. 
 
-• ***	Assinatura*** : fornece a base da nossa forma de fidelização com o cliente e a loja virtual, disponibiliza informações e oferece descontos e os planos da assinatura da LaveBem.
+• **Assinatura** : fornece a base da nossa forma de fidelização com o cliente e a loja virtual, disponibiliza informações e oferece descontos e os planos da assinatura da LaveBem.
 
 No rodapé das páginas do site está incluído o Contato ( central de atendimento, e-mail), com ícones dos links direcionado as redes sociais da loja, e informações institucionais
 
