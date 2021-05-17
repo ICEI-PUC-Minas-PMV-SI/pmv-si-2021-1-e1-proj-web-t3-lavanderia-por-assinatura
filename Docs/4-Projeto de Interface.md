@@ -14,7 +14,7 @@ No topo da página principal (header) contém o logo da loja virtual, também di
 
 • **Assinatura** : fornece a base da nossa forma de fidelização com o cliente e a loja virtual, disponibiliza informações e oferece descontos e os planos da assinatura da LaveBem.
 
-No rodapé das páginas do site está incluído o Contato ( central de atendimento, e-mail), com ícones dos links direcionado as redes sociais da loja, e informações institucionais
+No rodapé das páginas do site está incluído o Contato ( central de atendimento, e-mail), com ícones dos links direcionado as redes sociais da loja, e informações institucionais.
 
 ## User Flow
 
