@@ -16,7 +16,8 @@ A página inicial apresentará com destaque os custos e benefícios do serviço 
 •	**Area do cliente**: Será um portal onde cliente terá todas as informações do andamento da sua solicitação de e demais detalhas específicos.
 O site será acessado por meio da URL: (A DEFINIR)
 
-
+Diagrama de componentes
+![DIAGRAMA ARQUI SOLUÇÃO](https://user-images.githubusercontent.com/81433012/118704530-9b907580-b7ed-11eb-8f0c-f89edda737ca.png)
 
 ![Diagrama de Componentes](img/componentes.png)
 <center>Figura XX - Arquitetura da Solução</center>
@@ -24,11 +25,9 @@ O site será acessado por meio da URL: (A DEFINIR)
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-   - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
      - **Canais** - seções de notícias apresentadas 
      - **Comentários** - registro de opiniões dos usuários sobre as notícias
      - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 > **Links Úteis**:
