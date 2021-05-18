@@ -17,9 +17,6 @@ A página inicial apresentará com destaque os custos e benefícios do serviço 
 O site será acessado por meio da URL: (A DEFINIR)
 
 Diagrama de componentes
-![DIAGRAMA ARQUI SOLUÇÃO](https://user-images.githubusercontent.com/81433012/118704530-9b907580-b7ed-11eb-8f0c-f89edda737ca.png)
-
-![Diagrama de Componentes](img/componentes.png)
 <center>Figura XX - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
