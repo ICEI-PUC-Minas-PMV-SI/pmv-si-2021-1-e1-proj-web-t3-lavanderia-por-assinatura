@@ -18,8 +18,6 @@ O site será acessado por meio da URL: (A DEFINIR)
 
 Diagrama de componentes
 <center>Figura XX - Arquitetura da Solução</center>
-![DIAGRAMA ARQUI SOLUÇÃO](https://user-images.githubusercontent.com/81433012/118704897-fa55ef00-b7ed-11eb-951b-7dc6fa37917f.png)
-
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
