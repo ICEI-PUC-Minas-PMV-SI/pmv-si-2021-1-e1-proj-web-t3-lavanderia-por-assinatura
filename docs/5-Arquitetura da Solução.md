@@ -14,10 +14,11 @@ A página inicial apresentará com destaque os custos e benefícios do serviço 
 •	**Contato**: Terá todas as informações necessárias e um chat onde o cliente possa entrar em contato direto com a LaveBem;
 
 •	**Area do cliente**: Será um portal onde cliente terá todas as informações do andamento da sua solicitação de e demais detalhas específicos.
-O site será acessado por meio da URL: (A DEFINIR)
+O site será acessado por meio da URL: (A DEFINIR) 
 
 Diagrama de componentes
 <center>Figura XX - Arquitetura da Solução</center>
+
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
