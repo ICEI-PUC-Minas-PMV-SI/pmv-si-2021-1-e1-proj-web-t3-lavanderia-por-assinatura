@@ -21,7 +21,7 @@ No rodapé das páginas do site está incluído o Contato ( central de atendimen
 ![UserFlow](https://user-images.githubusercontent.com/81536843/118411748-88a26780-b66c-11eb-9123-89e112772dd3.png)
 
 
-## Wireframes
+## Protótipos
 
 ![Home](https://user-images.githubusercontent.com/81536843/118403441-b83d7980-b644-11eb-9145-0b4f98fc2f2e.png)
 ![Sobre nós](https://user-images.githubusercontent.com/81536843/118403582-6d703180-b645-11eb-9ce3-f87c4d521e18.png)
