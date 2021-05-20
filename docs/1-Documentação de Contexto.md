@@ -34,6 +34,3 @@ O público alvo de nossa empresa se abrange a pessoas com trabalhos e estudos in
 
 ### Mapa de Stakeholders
 <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t3-lavanderia-por-assinatura/blob/beb9126f7a22ddfcc447f55d92034fe902fecf1b/docs/img/mapa-de-stakeholders.png" />
-
-### Diagrama de Personas
-<img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t3-lavanderia-por-assinatura/blob/beb9126f7a22ddfcc447f55d92034fe902fecf1b/docs/img/diagrama-de-personas.png" />
