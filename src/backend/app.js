@@ -6,7 +6,7 @@ const dotenv = require('dotenv');
 const app = express();
 
 app.use(cors());
-app.use(express.urlencoded({ extended: true}))
+app.use(express.urlencoded({ extended: true}));
 app.use(express.json());
 
 dotenv.config();
@@ -15,6 +15,16 @@ const client = new MongoClient(uri, { useUnifiedTopology: true });
 
 let database = null;
 let collection = null;
+
+// CREATE
+app.post('/api/clientes', (req, res) => {
+  collection.insertOne(req.body)
+    .then(result => {
+      res.redirect('/')
+    })
+    .catch(error => console.error(error))
+
+});
 
 // READ
 app.get("/api/clientes", async (_, res) => {
@@ -27,6 +37,10 @@ app.get("/api/clientes", async (_, res) => {
       res.status(400).send(null);
     }
   });
+
+// UPDATE
+
+// DELETE
 
 // Heroku utiliza process.env.PORT para armazenar a porta
 var port = process.env.PORT || 8080;
