@@ -41,11 +41,11 @@ app.get("/api/clientes", async (_, res) => {
 
 // UPDATE
 app.post('/api/clientes/update', (req, res) => {
-  collection.update(
-    { _id: new ObjectID(req.body.id) }, req.body 
+  collection.updateOne(
+    { _id: new ObjectID(req.body.id) }, { $set: req.body } 
   )
-    .then(res => {
-      res.json("Atualizado com sucesso")
+    .then(() => {
+      res.send("Atualizado com sucesso")
     })
     .catch(error => console.error(error))
 
@@ -58,9 +58,9 @@ app.post('/api/clientes/delete', (req, res) => {
   )
     .then(result => {
       if (result.deletedCount === 0) {
-        return res.json("ID não encontrado")
+        return res.send("ID não encontrado")
       }
-      res.json("Deletado com sucesso")
+      res.send("Deletado com sucesso")
     })
     .catch(error => console.error(error))
 
