@@ -40,6 +40,16 @@ app.get("/api/clientes", async (_, res) => {
   });
 
 // UPDATE
+app.post('/api/clientes/update', (req, res) => {
+  collection.update(
+    { _id: new ObjectID(req.body.id) }, req.body 
+  )
+    .then(res => {
+      res.json("Atualizado com sucesso")
+    })
+    .catch(error => console.error(error))
+
+});
 
 // DELETE
 app.post('/api/clientes/delete', (req, res) => {
