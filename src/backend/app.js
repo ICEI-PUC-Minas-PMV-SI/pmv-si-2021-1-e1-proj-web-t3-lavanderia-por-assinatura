@@ -2,6 +2,7 @@
 const express = require('express');
 const cors = require('cors');
 const { MongoClient } = require("mongodb");
+const ObjectID = require('mongodb').ObjectID;
 const dotenv = require('dotenv');
 const app = express();
 
@@ -20,7 +21,7 @@ let collection = null;
 app.post('/api/clientes', (req, res) => {
   collection.insertOne(req.body)
     .then(result => {
-      res.redirect('/')
+      res.json('Adicionado')
     })
     .catch(error => console.error(error))
 
@@ -41,6 +42,19 @@ app.get("/api/clientes", async (_, res) => {
 // UPDATE
 
 // DELETE
+app.post('/api/clientes/delete', (req, res) => {
+  collection.deleteOne(
+    { _id: new ObjectID(req.body.id) }
+  )
+    .then(result => {
+      if (result.deletedCount === 0) {
+        return res.json("ID não encontrado")
+      }
+      res.json("Deletado com sucesso")
+    })
+    .catch(error => console.error(error))
+
+});
 
 // Heroku utiliza process.env.PORT para armazenar a porta
 var port = process.env.PORT || 8080;
