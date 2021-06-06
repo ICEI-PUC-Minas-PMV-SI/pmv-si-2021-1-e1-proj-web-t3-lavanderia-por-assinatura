@@ -4,11 +4,15 @@ const cors = require('cors');
 const { MongoClient } = require("mongodb");
 const ObjectID = require('mongodb').ObjectID;
 const dotenv = require('dotenv');
+const path = require('path');
 const app = express();
 
 app.use(cors());
 app.use(express.urlencoded({ extended: true}));
 app.use(express.json());
+
+// Passa a ser servidor do Frontend na pasta Client
+app.use(express.static(path.join(path.resolve(), 'client')));
 
 dotenv.config();
 const uri = process.env.DB_URL;
