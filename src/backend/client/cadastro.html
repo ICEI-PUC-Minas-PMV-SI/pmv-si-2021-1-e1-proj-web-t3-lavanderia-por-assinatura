@@ -104,7 +104,7 @@
             
             // READ Contatos
             $.ajax({
-                url: window.location.href + "api/clientes",
+                url: "https://lavebemheroku.herokuapp.com/api/clientes",
                 dataType: 'json',
                 success: function(response){
                     var db = response;

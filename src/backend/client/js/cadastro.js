@@ -17,7 +17,7 @@ function insertContato(contato) {
     $.ajax({
         type: "POST",
         contentType: "application/json",
-        url: window.location.href + "api/clientes",
+        url: "https://lavebemheroku.herokuapp.com/api/clientes",
         data: JSON.stringify(novoContato),
         dataType: 'json'
     });
@@ -32,7 +32,7 @@ function updateContato(contato) {
     $.ajax({
         type: "POST",
         contentType: "application/json",
-        url: window.location.href + "api/clientes/update",
+        url: "https://lavebemheroku.herokuapp.com/api/clientes/update",
         data: JSON.stringify(contato),
         dataType: 'json'
     });
@@ -48,7 +48,7 @@ function deleteContato(campoId) {
     $.ajax({
         type: "POST",
         contentType: "application/json",
-        url: window.location.href + "api/clientes/delete",
+        url: "https://lavebemheroku.herokuapp.com/api/clientes/delete",
         data: JSON.stringify(deletaId),
         dataType: 'json'
     });
