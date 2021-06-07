@@ -5,15 +5,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Cadastro de Contatos</title>
+    <title>LAVEBEM - Cadastro de Clientes</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/cadastro.css">
+    <link rel="stylesheet" href="css/clientes.css" />
 </head>
 
 <body onload="init()">
-    <h1>LaveBem - Cadastro de Clientes</h1>
+    <header class="header">
+        <img src="img/lavebem.jpeg" alt="lavebem" />
+        <ul class="header_list">
+            <li class="header_list_item"><a href="index.html">HOME</a></li>
+            <li class="header_list_item"><a href="sobre.html">EMPRESA</a></li>
+            <li class="header_list_item"><a href="index.html#bloco_servicos">SERVIÇOS</a></li>
+            <li class="header_list_item"><a href="contato.html">CONTATO</a></li>
+            <li class="header_list_item"><a href="assinatura.html">ASSINATURA</a></li>
+        </ul>
+        <ul class="header_right">
+            <b><li class="header_list_right">ENCONTRE UMA LOJA</li></b>
+            <b><li class="header_list_right"><a href="login.html">FAÇA SEU CADASTRO</a></li></b>
+        </ul>
+    </header>
+
+    <main class="main_clientes">
+        <h3 style="text-align: center; color: whitesmoke;">Cadastro de Clientes</h1>
+    </main>
 
     <div class="container">
+        
         <div class="row">
             <div id="msg" class="col-sm-10 offset-sm-1 ">
                 <!--<div class="alert alert-warning">Contato não encontrado.</div>-->
@@ -27,17 +45,17 @@
                     <input type="text" class="form-control" id="inputId" placeholder="ID" disabled>
                 </div>
                 <div class="col-sm-8">
-                    <label for="inputNome">Nome (*)</label>
+                    <label for="inputNome">Nome</label>
                     <input type="text" class="form-control" id="inputNome" required placeholder="Informe o nome do contato">
                 </div>
             </div>
             <div class="form-group row">
                 <div class="col-sm-5">
-                    <label for="inputEmail">E-mail (*)</label>
+                    <label for="inputEmail">E-mail</label>
                     <input type="text" class="form-control" id="inputEmail" required placeholder="Email">
                 </div>
                 <div class="col-sm-7">
-                    <label for="inputTelefone">Telefone (*)</label>
+                    <label for="inputTelefone">Telefone</label>
                     <input type="text" class="form-control" id="inputTelefone" required placeholder="Telefone">
                 </div>
             </div>
@@ -51,18 +69,14 @@
                     <input type="text" class="form-control" id="inputCategoria" required placeholder="Informe a categoria do contato">
                 </div>
             </div>
-            <div class="form-group row">
-                <div class="col-sm-4">
-                    <small>(*) Campos obrigatórios</small>
-                </div>
-            </div>
+
             <div class="form-group row">
                 <div class="col-sm-12">
                     <input type="button" class="btn btn-success" id="btnInsert" value="Inserir">
                     <input type="button" class="btn btn-warning" id="btnUpdate" value="Alterar">
                     <input type="button" class="btn btn-danger" id="btnDelete" value="Excluir">
-                    <input type="button" class="btn btn-secondary" id="btnClear" value="Limpar Form">
-                    <input type="button" class="btn btn-warning" id="btnClear" value="Atualizar" onclick="window.location.reload()"></a>
+                    <input type="button" class="btn btn-secondary" id="btnClear" value="Limpar">
+                    <input type="button" class="btn btn-warning" id="btnReload" value="Atualizar" onclick="window.location.reload()"></a>
                 </div>
             </div>
         </form>
@@ -96,7 +110,7 @@
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-    <script src="js/cadastro.js"></script>
+    <script src="js/clientes.js"></script>
     <script>
         function exibeContatos() {
             // Remove todas as linhas do corpo da tabela
