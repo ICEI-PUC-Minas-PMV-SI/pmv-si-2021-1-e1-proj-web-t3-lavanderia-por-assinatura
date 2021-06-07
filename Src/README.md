@@ -2,7 +2,7 @@
 
 ## Instalação do Site
 
-O Frontend foi desenvolvido em HTML/CSS/JS e está na pasta Client do Backend.
+O Frontend foi desenvolvido em HTML, CSS, JavaScript e está na pasta Client do Backend.
 O cadastro do cliente acessa uma API para sincronizar com o Banco de Dados (MongoDB Atlas).
 O Backend está hospedado no Heroku e pode ser acessado através do seguinte link: https://lavebemherokuapp.com 
 
