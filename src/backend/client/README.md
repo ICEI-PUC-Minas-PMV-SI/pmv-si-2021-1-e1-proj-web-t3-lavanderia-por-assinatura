@@ -1,0 +1,1 @@
+# Aqui são adicionados os arquivos estáticos do Frontend
