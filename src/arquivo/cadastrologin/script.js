@@ -94,7 +94,7 @@ function cadastrar(){
     msgError.innerHTML = ''
     
     setTimeout(()=>{
-        window.location.href = 'https://cdpn.io/maarcosp/debug/RwpMRjr/mWkoNzGGRzVA'
+        window.location.href = 'login.html'
     }, 3000)
   
     

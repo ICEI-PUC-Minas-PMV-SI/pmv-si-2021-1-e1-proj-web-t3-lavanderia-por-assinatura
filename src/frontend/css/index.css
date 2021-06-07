@@ -191,3 +191,5 @@ margin-left: 200px;
 .itemtext {
     margin-bottom: 30px;
 }
+
+a { text-decoration: none; color: inherit; }

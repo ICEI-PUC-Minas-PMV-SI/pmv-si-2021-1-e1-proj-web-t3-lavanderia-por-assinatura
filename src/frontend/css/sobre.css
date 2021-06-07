@@ -34,69 +34,56 @@ html, body {
     color: green;
 }
 /* Ediçoes parte do meio do site */
-.conteudo {
+.article1 {
     background-color: #8b51fc;
-    height: 300px;
-}
-
-.titulo {
-   height: 40px;
-   padding: 40px 30px ;
-}
-
-.faleconosco {
-    margin-top: 16px;
-    color: white;
-}
-.colortext {
-    color: white;
-}
-.infotext {
-    color: white;
-    margin-top: 20px;
-}
- .cor_text {
-     color: blue;
-     margin-top: 10px;
-     
- }
-
- .form_contact {
-     margin-top: 30px;
- }
-.form {
+    font-size: 18px;
+    height: 500px;
+    padding: 0px 50px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    flex-direction: column;
+    justify-content: space-between;
 }
-
-.form .input_container {
+.article_paragrafo {
+    color: white;
+    margin-bottom: 24px;
+    line-height: 1.6;
+}
+/* Ediçoes parte do meio do site conteúdo */
+.conteudo {
+    margin-top: 50px;
+    font-size: 30px;
     display: flex;
+    align-items: center;
     flex-direction: column;
-    align-items: flex-start;
 }
-
-
-h2 {
-   text-align: center;
-    margin-bottom: 20px;
-    color: #8b51fc;
+.conteudo_item {
+    margin-top: 20px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
 }
-input {
-    width: 500px;
-    padding: 8px;
-    color: gray ;
-    border-radius: 10px;
-    background-color: rgb(241, 234, 234);
+.home-newsletter .single .form-control {
+    width: 400px;
+    margin-top: 40px;
+    height: 50px;
+    background: rgba(255, 255, 255, 0.6);
+    border: 1px solid black;
+    border-radius: 30px 30px;
+    text-align: center;
 
 }
-textarea {
-    width: 500px;
-    height: 300px;
+.home-newsletter .single .form-control:focus {
+    border-color: #8b51fc ;
 }
-
-/* Ediçoes parte footer */
+.home-newsletter .single .btn {
+    width: 50px;
+    min-height: 50px; 
+    border-radius: 30px 30px;
+    background: #8b51fc;
+    color: #fff;
+    border: none;
+    }
+ /* Ediçoes parte footer */
  .footer {
     background-color: #8b51fc;
     margin-top: 48px;
@@ -142,3 +129,5 @@ textarea {
     margin-bottom: 30px;
 
 }
+
+a { text-decoration: none; color: inherit; }

@@ -102,7 +102,7 @@ html, body {
     justify-content: center;
 }
 
-.clienteslogin2 .formulario_cliente2 {
+.clienteslogin2 .formulario_nome2 {
     width: 500px;
     height: 50px;
     margin-bottom: 5px;
@@ -110,7 +110,7 @@ html, body {
     border: 1px solid grey;
     text-align: center;
 }
-.clienteslogin2 .formulario_cpf2 {
+.clienteslogin2 .formulario_usuario2 {
     width: 500px;
     height: 50px;
     margin-bottom: 5px;
@@ -118,7 +118,7 @@ html, body {
     border: 1px solid grey;
     text-align: center;
 }
-.clienteslogin2 .formulario_email2 {
+.clienteslogin2 .formulario_senha2 {
     width: 500px;
     height: 50px;
     margin-bottom: 5px;
@@ -184,3 +184,5 @@ html, body {
     margin-bottom: 30px;
 
 }
+
+a { text-decoration: none; color: inherit; }
