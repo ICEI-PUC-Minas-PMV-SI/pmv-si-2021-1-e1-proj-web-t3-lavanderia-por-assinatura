@@ -40,6 +40,7 @@ Diagrama de componentes
 
 Basicamente upamos todo o codigo fonte programado para a plataforma Heroku que será utilizado inicialmente como nosso servidor principal.
 
+
 > **Links Úteis**:
 >
 > - [Website com GitHub Pages](https://pages.github.com/)
