@@ -33,7 +33,6 @@ O cliente irá acessar o web site através da URL, como isso o protocolo HTTP pe
 
 
 
-
 Diagrama de componentes
 ![DIAGRAMA ARQUI SOLUÇÃO](https://user-images.githubusercontent.com/81433012/118706422-b82dad00-b7ef-11eb-80c7-d7426a445308.png)
 
