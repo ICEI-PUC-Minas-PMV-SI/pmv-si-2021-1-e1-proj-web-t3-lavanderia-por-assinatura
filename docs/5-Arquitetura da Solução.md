@@ -16,8 +16,6 @@ A página inicial apresentará com destaque os custos e benefícios do serviço 
 •	**Area do cliente**: Será um portal onde cliente terá todas as informações do andamento da sua solicitação de e demais detalhas específicos.
 O site será acessado por meio da URL: (A DEFINIR) 
 
-Diagrama de componentes
-![DIAGRAMA ARQUI SOLUÇÃO](https://user-images.githubusercontent.com/81433012/118706422-b82dad00-b7ef-11eb-80c7-d7426a445308.png)
 
 <center>Figura XX - Arquitetura da Solução</center>
 
@@ -29,14 +27,21 @@ A solução implementada conta com os seguintes módulos:
   
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+As tecnologias usadas no projeto foram inicialmente o software Visual Studio para que possamos fazer toda a compilação dos codigos de linguagem HTML, posteriormente hospedamos o Backend no Heroku (plataforma em nuvem como um serviço que suporta várias linguagens de programação).
+Usamos também o bando de dados MongoDB
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
+O cliente irá acessar o web site através da URL, como isso o protocolo HTTP permitirá que o cliente troque informações com o servidor onde o mesmo visualizará todo o conteudo do site pelo seu Desktop/Smartphone.
+
+Será usada outras tecnologias conforme imagem abaixo.
+
+Diagrama de componentes
+![DIAGRAMA ARQUI SOLUÇÃO](https://user-images.githubusercontent.com/81433012/118706422-b82dad00-b7ef-11eb-80c7-d7426a445308.png)
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+Basicamente upamos todo o codigo fonte programado para a plataforma Heroku que será utilizado inicialmente como nosso servidor principal.
+
 
 > **Links Úteis**:
 >
