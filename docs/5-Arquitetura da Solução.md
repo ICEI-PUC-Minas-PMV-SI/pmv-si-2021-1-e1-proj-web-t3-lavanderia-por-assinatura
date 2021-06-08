@@ -27,20 +27,16 @@ A solução implementada conta com os seguintes módulos:
   
 ## Tecnologias Utilizadas
 
-As tecnologias usadas no projeto foram inicialmente o software Visual Studio para que possamos fazer toda a compilação dos codigos de linguagem HTML, posteriormente hospedamos o Backend no Heroku (plataforma em nuvem como um serviço que suporta várias linguagens de programação).
-Usamos também o bando de dados MongoDB
 
 
-O cliente irá acessar o web site através da URL, como isso o protocolo HTTP permitirá que o cliente troque informações com o servidor onde o mesmo visualizará todo o conteudo do site pelo seu Desktop/Smartphone.
 
-Será usada outras tecnologias conforme imagem abaixo.
+
 
 Diagrama de componentes
 ![DIAGRAMA ARQUI SOLUÇÃO](https://user-images.githubusercontent.com/81433012/118706422-b82dad00-b7ef-11eb-80c7-d7426a445308.png)
 
 ## Hospedagem
 
-Basicamente upamos todo o codigo fonte programado para a plataforma Heroku que será utilizado inicialmente como nosso servidor principal.
 
 
 > **Links Úteis**:
