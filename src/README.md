@@ -9,5 +9,5 @@ O Backend está hospedado no Heroku e pode ser acessado através do seguinte lin
 ## Histórico de versões
 
 ### [0.1.0] - 07/06/2021
-#### Adicionado
+#### Adicionado.
 Primeira versão do site.
