@@ -30,11 +30,11 @@
         </div>
          <section class="clienteslogin">
             <div class="input_container">
-                <input type="text" class="formulario_cliente" placeholder="USUÁRIO">
-                <input type="password" class="formulario_senha" placeholder="SENHA">
+                <input type="text" class="formulario_cliente" placeholder="USUÁRIO" id="usuarioDigitado">
+                <input type="password" class="formulario_senha" placeholder="SENHA" id="senhaDigitada">
                 <p class="recu_senha">Esqueceu sua senha?</p>
                 <span class="inputgrupo">
-                    <button class="style" type="submit" onclick="window.location.href = 'clientes.html'"> ENTRAR </button>
+                    <button class="style" type="submit" onclick="botaoLogin()"> ENTRAR </button>
                 </span>
             </div>
          </section>
@@ -103,5 +103,22 @@
          <p>Lavanderia LAVEBEM 2021. Todos os direitos reservados.</p>
     </footer>
     <script src="js/validador.js"></script>
-     </body>
+    <script>
+        function botaoLogin() {
+            var usuario = document.getElementById('usuarioDigitado').value;
+            var senha = document.getElementById('senhaDigitada').value;
+
+            console.log(usuario);
+            console.log(senha);
+
+            if (usuario == 'admin' && senha == '1234') {
+                window.location.href = 'clientes.html';
+            // } else if  {
+            //     ajustar login
+            } else {
+                console.log('usuário não encontrado');
+            }
+        }
+    </script>
+</body>
 </html>
