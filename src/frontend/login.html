@@ -108,13 +108,10 @@
             var usuario = document.getElementById('usuarioDigitado').value;
             var senha = document.getElementById('senhaDigitada').value;
 
-            console.log(usuario);
-            console.log(senha);
-
             if (usuario == 'admin' && senha == '1234') {
                 window.location.href = 'clientes.html';
-            // } else if  {
-            //     ajustar login
+            } else if (usuario == 'cliente' && senha == '1234') {
+                window.location.href = 'pagamento.html';
             } else {
                 console.log('usuário não encontrado');
             }
