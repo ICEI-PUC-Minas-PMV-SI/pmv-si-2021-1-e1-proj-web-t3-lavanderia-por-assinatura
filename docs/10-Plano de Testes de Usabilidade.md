@@ -1,8 +1,6 @@
 # Plano de Testes de Usabilidade
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+Planejamento de realização de testes com usuários definindo as operações que os usuários devem realizar através do site da empresa.
 
-Planejamento de realização de testes com usuários definindo as operações que os usuários devem realizar.
-
-> **Links Úteis**:
-> - [Ferramentas deTestes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+> **Link**:
+> - [Ferramentas de Testes de Usabilidade](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t3-lavanderia-por-assinatura/blob/main/docs/pdf/Plano%20de%20testes%20LAVEBEM!.docx)
