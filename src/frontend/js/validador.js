@@ -15,6 +15,7 @@ let labelConfirmSenha = document.querySelector('#labelConfirmSenha')
 let validConfirmSenha = false
 
 let msgError = document.querySelector('#msgError')
+let msgErrorLogin = document.querySelector('#msgErrorLogin')
 let msgSuccess = document.querySelector('#msgSuccess')
 
 nome.addEventListener('keyup', () => {
@@ -103,5 +104,29 @@ function cadastrar(){
     msgError.innerHTML = '<strong>Preencha todos os campos</strong>'
     msgSuccess.innerHTML = ''
     msgSuccess.setAttribute('style', 'display: none')
+  }
+}
+
+function botaoLogin() {
+  var usuario = document.getElementById('usuarioDigitado').value;
+  var senha = document.getElementById('senhaDigitada').value;
+
+  let listaUser = JSON.parse(localStorage.getItem('listaUser') || '[]')
+  let usuarioExiste = false
+
+  for (i = 0; i < listaUser.length; i++) {
+      if (usuario == listaUser[i].userCad && senha == listaUser[i].senhaCad) {
+          usuarioExiste = true
+      }
+      
+  }
+
+  if (usuario == 'admin' && senha == 'admin') {
+      window.location.href = 'clientes.html';
+  } else if (usuarioExiste) {
+      window.location.href = 'pagamento.html';
+  } else {
+    msgErrorLogin.setAttribute('style', 'color: red')
+    msgErrorLogin.innerHTML = '<strong>Usuário ou Senha incorretos!</strong>'
   }
 }
