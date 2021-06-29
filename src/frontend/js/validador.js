@@ -87,7 +87,6 @@ function cadastrar(){
     )
     
     localStorage.setItem('listaUser', JSON.stringify(listaUser))
-    
    
     msgSuccess.setAttribute('style', 'color: green')
     msgSuccess.innerHTML = '<strong>Usuário cadastrado com sucesso!</strong>'
@@ -96,8 +95,7 @@ function cadastrar(){
     
     setTimeout(()=>{
         window.location.href = 'login.html'
-    }, 3000)
-  
+    }, 2000)
     
   } else {
     msgError.setAttribute('style', 'color: red')
