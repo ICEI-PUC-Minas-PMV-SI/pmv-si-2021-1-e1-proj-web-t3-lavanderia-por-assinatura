@@ -37,13 +37,16 @@ html, body {
 .main {
     background-color: #8b51fc;
     font-size: 20px;
-    height: 60px;
-    padding: 0px 650px;
+    height: 180px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
+.titulo {
+    text-align: center;
+    color: white;
 
+}
 .main_paragrafo {
     color: white;
     margin-bottom: 24px;
@@ -83,11 +86,15 @@ html, body {
 /* Ediçoes parte do meio do site app lavebem */
 .article3 {
     background-color: #8b51fc;
-    height: 60px;
+    height: 160px;
     display: flex;
     align-items: center;
-    padding: 0 650px 0 650px;
-    margin-top: 0px;
+    justify-content: center;
+    margin-top: 30px;
+}
+.article_item1 {
+    align-items: center;
+    color: white;
 }
 
 .article_item2 {
@@ -162,7 +169,7 @@ margin-left: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
-    justify-content: space-between;
+
 }
 .paragrafo1 {
     margin-left: 45px;

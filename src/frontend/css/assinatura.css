@@ -124,7 +124,6 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
-    justify-content: space-between;
 }
 .paragrafo1 {
     margin-left: 45px;
