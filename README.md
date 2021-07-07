@@ -8,6 +8,8 @@
 
 Projeto Web para desenvolvimento de um sistema para a LaveBem, uma lavanderia tradicional que decidiu se modernizar, oferendo um prático serviço por assinatura.
 
+Acesse nosso site: http://lavebemheroku.herokuapp.com/
+
 ## Integrantes <!-- em ordem alfabética -->
 
 - [André Moreira de Carvalho](https://github.com/Dande06)
