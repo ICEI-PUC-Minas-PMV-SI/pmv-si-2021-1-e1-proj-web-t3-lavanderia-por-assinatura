@@ -2,8 +2,10 @@
 
 <span style="color:red">Pré-requisitos: <a href="7-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></span>, <a href="10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a>
 
-Para o teste de usabilidades foi realizado com 5 pessoas de diferentes faixas etárias, tanto no computador como no celular, com objetivo de avaliar a navegação pelas interfaces do site, as tarefas são a mesma para todos os usuários. O participante recebe um link  do site pelo e-mail.
-A tarefa é entrar pelo link na página principal da LAVEBEM, navegar,testar e localizar as páginas de missão da LAVEBEM, EMPRESA, SERVIÇOS, CONTATO, ASSINATURA, NOSSA LOJA, FAÇA SEU CADASTRO.
+Para o teste de usabilidade foi convidado 5 pessoas de diferentes faixas etárias, tanto no computador como no celular, com objetivo de avaliar a navegação pelas interfaces do site, as tarefas são as mesmas para todos os usuários. Os participantes receberão um link do site pelo e-mail.
+A tarefa é entrar pelo link e navegar pelas páginas do site da LAVEBEM, com intuito de testar e localizar as páginas:
+HOME, EMPRESA, SERVIÇOS, CONTATO, ASSINATURA, NOSSA LOJA, FAÇA SEU CADASTRO.
+
 
 | PARTICIPANTE | TÉCNICA COM INTERNET | MODO DE NAVEGAÇÃO |
 |--------------|----------------------|-------------------|
