@@ -6,6 +6,7 @@ Para o teste de usabilidades foi realizado com 5 pessoas de diferentes faixas et
 A tarefa é entrar pelo link na página principal da LAVEBEM, navegar,testar e localizar as páginas de missão da LAVEBEM, EMPRESA, SERVIÇOS, CONTATO, ASSINATURA, NOSSA LOJA, FAÇA SEU CADASTRO.
 
 | PARTICIPANTE | TÉCNICA COM INTERNET | MODO DE NAVEGAÇÃO |
+|--------------|----------------------|-------------------|
 | Diana (20)   |      ótima           |  computador       |
 | Hudson (36)  |      bom             |  computador       |
 | Katia (27)   |      média           |  celular          |
